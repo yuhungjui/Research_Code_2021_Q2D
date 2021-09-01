@@ -1,4 +1,6 @@
 
+.DS_Store
+
 # ignore all the DATA:
 
 DATA_*/
