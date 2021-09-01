@@ -1,4 +1,4 @@
 
 # ignore all the DATA:
 
-DATA_*
+DATA_*/*
